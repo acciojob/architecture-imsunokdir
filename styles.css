@@ -1,1 +1,19 @@
 /*  your css code here. If applicable */
+*{
+	width:1100px;
+	background-color: #CBD6CB
+}
+
+.one{
+	width:200px;
+}
+.two{
+	width:600px;
+}
+.three{
+	width:200px;
+}
+
+
+
+
